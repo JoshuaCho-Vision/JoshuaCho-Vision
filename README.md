@@ -5,6 +5,8 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/020d1969-9f42-48bd-b40d-784fa92d5a1a" align="center" style="width: 50%" />
 </div>  
-  
 
-### <div align="center">I am Joshua Cho, an MS ECE student at UIUC studying computer vision. 🚀</div>  
+---
+## Notes to Share
+- Code will be released here.
+- In contrast to existing zero-shot methods, our free-lunch method necessitates no training, fine-tuning, text conditioning, or hyperparameter adjustments. It builds on well-established "image editing" frameworks. Yet, it diverges from existing methods that rely on posterior approximation (Gaussian, hand-crafted, etc.), degradation assumption, or custom loss function to minimize during inference. We aimed to solve without assumptions/approximations.
