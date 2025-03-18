@@ -9,4 +9,4 @@
 ---
 ## Notes to Share
 - Code will be released here.
-- In contrast to existing zero-shot methods, our free-lunch method necessitates no training, fine-tuning, text conditioning, or hyperparameter adjustments. It builds on well-established "image editing" frameworks. Yet, it diverges from existing methods that rely on posterior approximation (Gaussian, hand-crafted, etc.), degradation assumption, or custom loss function to minimize during inference. We aimed to solve without assumptions/approximations.
+- In contrast to existing zero-shot methods, our free-lunch method necessitates no training, fine-tuning, text conditioning, or hyperparameter adjustments. It builds on well-established "image editing" frameworks. Yet, it diverges from existing methods as they rely on posterior approximation (Gaussian, hand-crafted, etc.), degradation assumption, or custom loss function to minimize during inference. **We aimed to solve without assumptions/approximations.**
