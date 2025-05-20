@@ -9,15 +9,10 @@ Computational Photography, Computational Imaging, Computer Vision
 Content
 
 ## Topic 2
-
-### Topic 2.1
-Content
-
-### Topic 2.2
 Content
 
 ## Topic 3
-Content
+Content. etc.
 
 ---
 ## Notes to Share
