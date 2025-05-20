@@ -1,10 +1,23 @@
-#  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Joshua Cho
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1000&lines=Computational+Photography%2C+Computational+Imaging%2C+Computer+Vision)](https://git.io/typing-svg)
+Bio:
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/020d1969-9f42-48bd-b40d-784fa92d5a1a" align="center" style="width: 50%" />
-</div>  
+## Interests
+Computational Photography, Computational Imaging, Computer Vision
+
+## Topic 1
+Content
+
+## Topic 2
+
+### Topic 2.1
+Content
+
+### Topic 2.2
+Content
+
+## Topic 3
+Content
 
 ---
 ## Notes to Share
