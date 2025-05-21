@@ -5,15 +5,6 @@ Bio:
 ## Interests
 Computational Photography, Computational Imaging, Computer Vision
 
-## Topic 1
-Content
-
-## Topic 2
-Content
-
-## Topic 3
-Content. etc.
-
 ---
 ## Notes to Share
 - Code will be released here.
